@@ -18,7 +18,7 @@ https://teachablemachine.withgoogle.com/models/6r4t5Yubq/
 
 해야할일
 
-CSS 수정(연예인-남녀버전, 공유시 태그달때 사진보이게 하기, 멘트정리, 퍼센트그래프)
+CSS 수정(공유시 태그달때 사진보이게 하기, 멘트정리, 퍼센트그래프)
 
 서버올리기(Netrify)
 
