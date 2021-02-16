@@ -636,6 +636,6 @@ input:checked + label > .knob > i:before {
 
 .ad-banner {
 
-    margin: 0 auto;
+    margin: 0px auto;
 }
 
